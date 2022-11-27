@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	
+
+	<PropertyGroup>
+		<AssemblyName>developermenu</AssemblyName>
+		<ProjectGuid>{00000000-0000-0000-0000-000000000000}</ProjectGuid>
+		<OutputType>Library</OutputType>
+		<PostgresqlSupport>false</PostgresqlSupport>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<ProjectReference Include=".\..\appmasterpage\appmasterpage.csproj" />
+		<ProjectReference Include=".\..\recentlinks\recentlinks.csproj" />
+		<ProjectReference Include=".\..\promptmasterpage\promptmasterpage.csproj" />
+		<ProjectReference Include=".\..\rwdmasterpage\rwdmasterpage.csproj" />
+		<ProjectReference Include=".\..\rwdrecentlinks\rwdrecentlinks.csproj" />
+		<ProjectReference Include=".\..\rwdpromptmasterpage\rwdpromptmasterpage.csproj" />
+		<ProjectReference Include=".\..\gx0010\gx0010.csproj" />
+		<ProjectReference Include=".\..\employee\employee.csproj" />
+		<ProjectReference Include=".\..\GeneXus.Programs.Common\GeneXus.Programs.Common.csproj" />
+
+	</ItemGroup>
+
+	<ItemGroup>
+
+	</ItemGroup>
+	<ItemGroup>
+
+	</ItemGroup>
+	
+	<Import Project="..\DotNetBaseProject.targets"/>
+</Project>

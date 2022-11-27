@@ -1,0 +1,3 @@
+C:\Models\ParksRedesigned\CSharpModel\web\bin\rwdpromptmasterpage.dll
+C:\Models\ParksRedesigned\CSharpModel\build\rwdpromptmasterpage\obj\Release\rwdpromptmasterpage.csprojResolveAssemblyReference.cache
+C:\Models\ParksRedesigned\CSharpModel\build\rwdpromptmasterpage\obj\Release\rwdpromptmasterpage.dll

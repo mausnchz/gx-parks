@@ -1,0 +1,10 @@
+﻿<ConnectionInformation>
+	<DBName>GX_KB_ParksRedesigned</DBName>
+	<IntegratedSecurity>True</IntegratedSecurity>
+	<ServerInstance>(LocalDB)\MSSQLLocalDB</ServerInstance>
+	<CreateDbInKbFolder>True</CreateDbInKbFolder>
+	<Directory>C:\Models\ParksRedesigned</Directory>
+	<DataFile>GX_KB_ParksRedesigned.mdf</DataFile>
+	<LogFile>GX_KB_ParksRedesigned_log.ldf</LogFile>
+	<HostName>DESKTOP-7NTVE9O</HostName>
+</ConnectionInformation>

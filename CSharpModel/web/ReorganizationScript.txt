@@ -1,0 +1,2 @@
+CREATE TABLE [Employee] ([EmployeeId] smallint NOT NULL IDENTITY(1,1), [EmployeeName] nchar(20) NOT NULL , [EmployeeLastName] nchar(20) NOT NULL , [EmployeeAddress] nvarchar(1024) NOT NULL , [EmployeePhone] nchar(20) NOT NULL , [EmployeeEmail] nvarchar(100) NOT NULL , PRIMARY KEY([EmployeeId]))
+
